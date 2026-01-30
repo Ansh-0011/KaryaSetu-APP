@@ -61,16 +61,6 @@ In India, millions of laborers still rely on verbal work agreements with **zero 
 - **Auth**: Firebase Auth, OTP (Twilio)
 - **APIs**: Google Maps API, SMS Gateway, OCR/FaceMatch (Optional)
 
-## 🧪 MVP Milestones
-
-- [ ] Dual-auth login (laborer/contractor)  
-- [ ] Job posting and assignment  
-- [ ] Work attendance with proof upload  
-- [ ] Payment request + approval + ledger  
-- [ ] Dispute system for verification  
-- [ ] SMS-based offline mode  
-- [ ] Govt admin panel  
-
 ## 🧠 Future Enhancements
 
 - Voice-bot assistant for low-literacy laborers  
