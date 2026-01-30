@@ -3,7 +3,7 @@ A software which innovates the workflow of the labourer work system in India.
 
 # 🇮🇳 KaryaSetu: Empowering Laborers, Enabling Contractors
 
-## 🔥 Problem Statement
+## The Problem 
 
 > *"Over 92% of India’s workforce is informal, with more than 50 million daily wage laborers struggling every day to find work, get paid fairly, or even prove they worked at all."*  
 > — [NSSO Survey, 2019]
